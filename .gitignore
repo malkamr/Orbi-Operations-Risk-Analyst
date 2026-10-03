@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local data exports
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Generated/local files
+dist/
+build/
