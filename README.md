@@ -4,6 +4,9 @@
 
 Orbi connects everyday retail business signals — **sales, inventory, customer orders, suppliers, and purchase orders** — to detect, prioritize, and explain operational risks before they disrupt orders, inventory availability, or supplier commitments.
 
+## Project Presentation 
+https://canva.link/x5kj0oegkg6wpcj
+
 ## The Problem
 
 Retail SMEs often have the data they need, but the important signals are spread across different operational records.
