@@ -4,8 +4,17 @@
 
 Orbi connects everyday retail business signals — **sales, inventory, customer orders, suppliers, and purchase orders** — to detect, prioritize, and explain operational risks before they disrupt orders, inventory availability, or supplier commitments.
 
+## Key Idea
+
+> Retail SMEs do not need more data.  
+> They need to understand what their data is telling them early enough to act.
+
+**Orbi turns scattered operational signals into prioritized decisions.**
+
+
 ## Project Presentation 
 https://canva.link/x5kj0oegkg6wpcj
+
 
 ## The Problem
 
@@ -222,15 +231,7 @@ Critical fulfillment / stockout risk
 Preventive action recommendations
 ```
 
-### Expected Evaluation Time
 
-**Target: under 5 minutes**
-
-A judge should be able to open the published agent, run the demonstration scenario, and inspect the prioritized risk output without reading the full documentation first.
-
-> **Note:** The final published-agent URL and exact launch control will be inserted here once the Wesam review is approved. No source code is intentionally fabricated in this repository while the agent remains under review.
-
----
 
 ## Repository Structure
 
@@ -256,18 +257,3 @@ orbi-operations-risk-analyst/
 └── presentation/
     └── Orbi_Retail_SME_Risk_Analyst.pptx
 ```
-
-## Project Status
-
-**Agent:** Published on Wesam — *currently under review*
-
-**Repository:** Documentation, architecture, demonstration scenario, and evaluation materials prepared.
-
-**Source implementation:** To be added if/when an official export/source package becomes available.
-
-## Key Idea
-
-> Retail SMEs do not need more data.  
-> They need to understand what their data is telling them early enough to act.
-
-**Orbi turns scattered operational signals into prioritized decisions.**
